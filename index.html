@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>BioCampingAlbania</title>
+    <title>SSDistribution</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -24,6 +24,18 @@
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+                <script>
+                function initialize() {
+                var mapProp = {
+                center:new google.maps.LatLng(41.3137885,19.79641509999999),
+                zoom:7,
+                mapTypeId:google.maps.MapTypeId.ROADMAP
+                };
+                var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+                }
+                google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -46,7 +58,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">BioCamping</a>
+                <a class="navbar-brand page-scroll" href="#page-top">SSDistribution</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -59,20 +71,18 @@
                         <a class="page-scroll" href="#services">Home</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#accomodation">Accomodation</a>
+                        <a class="page-scroll" href="#philosophy">Company Philosophy</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Facilities</a>
+                        <a class="page-scroll" href="#history">Company History</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#location">Location</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#events">Events</a>
-                    </li>
+                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -86,18 +96,18 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome To Our Camping!</div>
                 <div class="intro-heading">Everyone is welcomed</div>
-                <a href="#services" class="page-scroll btn btn-xl">Learn more</a>
+                <a href="#philosophy" class="page-scroll btn btn-xl">Learn more</a>
             </div>
         </div>
     </header>
 
-    <!-- Accomodation Section -->
-    <section id="accomodation">
+    <!-- Company philosophy Section -->
+    <section id="philosophy">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Accomodation</h2>
-                    <h3 class="section-subheading text-muted">Choose your tent</h3>
+                    <h2 class="section-heading">Company Philosophy</h2>
+                    <h3 class="section-subheading text-muted">What we do!</h3>
                 </div>
             </div>
             <div class="row text-center">
@@ -129,13 +139,13 @@
         </div>
     </section>
 
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <!-- Company History Grid Section -->
+    <section id="history" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Company history</h2>
+                    <h3 class="section-subheading text-muted">Who we are.</h3>
                 </div>
             </div>
             <div class="row">
@@ -227,14 +237,18 @@
         </div>
     </section>
 
-    <!-- About Section -->
-    <section id="about">
+    <!-- Location Section -->
+    <section id="location">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Location</h2>
+                    <h3 class="section-subheading text-muted">Where we are!</h3>
                 </div>
+                
+                <iframe classs="text-center" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="400" height="400" src="https://maps.google.com/maps?hl=en&q=Hasan vogli 10&ie=UTF8&t=roadmap&z=15&iwloc=B&output=embed"><div><small><a href="http://embedgooglemaps.com">
+                                    embed google map
+                            </a></small></div><div><small><a href="https:/www.googlemapsgenerator.com/">generate Google Maps</a></small></div></iframe>
             </div>
             <div class="row">
                 <div class="col-lg-12">
@@ -317,58 +331,9 @@
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Lead Designer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Larry Parker</h4>
-                        <p class="text-muted">Lead Marketer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div>
+            <div>
+                
+            </div>        
         </div>
     </section>
 
@@ -660,6 +625,8 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/agency.js"></script>
+
+
 
 </body>
 

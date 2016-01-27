@@ -1065,6 +1065,12 @@ th {
 .glyphicon-menu-up:before {
   content: "\e260";
 }
+.glyphicon-disk-import:before {
+  content: "\e419";
+}
+.glyphicon-disk-export:before {
+  content: "\e420";
+}
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;

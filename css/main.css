@@ -34,6 +34,7 @@ a {
 iframe {
     border: 0;
     padding-bottom: 70px;
+    padding-top: 40px;
 }
 
 a, a:focus, a:hover {
@@ -270,7 +271,10 @@ top: -8px;
   width: 8px;
 }
 
-
+.demo{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 
 /*=========================================
 	Features
@@ -336,6 +340,7 @@ top: -8px;
 ==========================================*/
 .works{
   padding-top: 75px;
+  padding-bottom: 30px
 }
 
 .work-filter {
@@ -651,7 +656,7 @@ label.error {
 .footer-social li a {
   color: #cdd2d6;
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 #map_canvas {
@@ -680,7 +685,8 @@ label.error {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+
 }
 
 .about-us p {
@@ -735,7 +741,7 @@ label.error {
 
 .copyright {
   color: #fff;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 #back-top {

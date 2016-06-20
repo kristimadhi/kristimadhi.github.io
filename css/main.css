@@ -452,6 +452,7 @@ top: -8px;
 }
 
 .member-thumb {
+  margin: auto;
   width: 273px;
   position: relative;
 }
@@ -534,6 +535,7 @@ top: -8px;
 }
 
 .parallax-overlay {
+  margin: auto;
 	background-color: rgba(6,32,51,.8);
 	padding: 70px 0;
 }
@@ -666,7 +668,7 @@ label.error {
 
 .footer {
   background-color: #13a7b4;
-  border-top: 5px solid #062033;
+  border-top: 0px solid #062033;
   color: #fff;
 }
 

@@ -755,3 +755,35 @@ label.error {
 background-color: #0000CC;
 background-image: none;
 }
+
+.heat h4 {
+  color: #062033;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  margin: 15px 0 8px;
+
+}
+.distribution{
+
+  padding-top: 75px;
+  padding-bottom: 75px;
+  text-align: center;
+}
+
+.heat-thumb {
+  margin: auto;
+  width: 450px;
+  position: relative;
+  text-align: center;
+}
+.heat span{
+  margin: auto  ;
+  color: #000;
+  text-align: center;
+}
+.caption{
+  display: block;
+  margin-right: 30px;
+  margin-left: 30px;
+}

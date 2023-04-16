@@ -27,7 +27,7 @@
               <div class="hide-mobile">
                 <h6 class="widget-title">CONTACT INFO</h6>
                 <address class="address">
-                <p>+1 (234) 567 89 10<br>
+                <p>info@gtr4cloud.de 567 89 10<br>
                   <a href="#">example@example.com</a></p>
                 </address>
               </div>
@@ -214,7 +214,7 @@
                 </ul>
               </div>
               <div class="hamburger-menu"> <span></span> <span></span> <span></span> </div>
-              <div class="navbar-button"> <a href="#"><i class="flaticon-call iconp"></i>&nbsp;&nbsp;&nbsp;+1 (234) 567 89 10</a> </div>
+              <div class="navbar-button"> <a href="#"><i class="flaticon-call iconp"></i>&nbsp;&nbsp;&nbsp;info@gtr4cloud.de 567 89 10</a> </div>
             </div>
           </nav>
       <header class="page-header" data-background="img/page-header.jpg">

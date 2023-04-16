@@ -120,7 +120,7 @@
                 </ul>
               </div>
           </div>
-          <small>© 2023 - WEBING</small> </div>
+          <small>© 2023 - GTR4Cloud</small> </div>
       </aside>
       <nav class="navbar">
         <div class="container">
@@ -304,13 +304,13 @@
                             <li><a href="about-us.html">About Us</a></li>
                             <li><a href="packages.html">Packages</a></li>
                             <li><a href="clients.html">Clients</a></li>
-                            <!-- <li><a href="blog.html">Blog</a></li> -->
+                            <li><a href="blog.html">Blog</a></li>
                             <li><a href="contact-us.html">Contact</a></li>
                         </ul>
                       </div>
                       <!-- end col-2 -->
                       <div class="col-12 wow fadeInUp" data-wow-delay="0.9s">
-                        <p class="copyright">© 2023 Webing</p>
+                        <p class="copyright">© 2023 GTR4Cloud</p>
                       </div>
                       <!-- end col-12 --> 
                     </div>

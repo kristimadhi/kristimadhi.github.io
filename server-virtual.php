@@ -61,7 +61,7 @@
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="it-support-services.html">IT Support Services
+                        <li><a class="dropdown-item" href="it-support-services.html">Cloud Native Development
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -79,13 +79,13 @@
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="cloud-services.html">Cloud Services
+                        <li><a class="dropdown-item" href="cloud-services.html">Quality Assurance
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="tracing-solutions.html">Tracing Solutions
+                        <li><a class="dropdown-item" href="tracing-solutions.html">Agile Project Management Services
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -155,7 +155,7 @@
                         <span class="border border-bottom"></span>
                         <span class="border border-left"></span>
                     </a></li>
-                    <li><a class="dropdown-item" href="it-support-services.html">IT Support Services
+                    <li><a class="dropdown-item" href="it-support-services.html">Cloud Native Development
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
@@ -173,13 +173,13 @@
                         <span class="border border-bottom"></span>
                         <span class="border border-left"></span>
                     </a></li>
-                    <li><a class="dropdown-item" href="cloud-services.html">Cloud Services
+                    <li><a class="dropdown-item" href="cloud-services.html">Quality Assurance
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
                         <span class="border border-left"></span>
                     </a></li>
-                    <li><a class="dropdown-item" href="tracing-solutions.html">Tracing Solutions
+                    <li><a class="dropdown-item" href="tracing-solutions.html">Agile Project Management Services
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
@@ -289,11 +289,11 @@
                         <h6 class="widget-title">IT Services</h6>
                         <ul class="footer-menu">
                             <li><a href="server-and-storage-systems.html">Server Storage Systems</a></li>
-                            <li><a href="it-support-services.html">IT Support Services</a></li>
+                            <li><a href="it-support-services.html">Cloud Native Development</a></li>
                             <li><a href="desktop-and-server-virtualization.html">Server Virtualization</a></li>
                             <li><a href="network-and-security-solutions.html">Network Solutions</a></li>
-                            <li><a href="cloud-services.html">Cloud Services</a></li>
-                            <li><a href="tracing-solutions.html">Tracing Solutions</a></li>
+                            <li><a href="cloud-services.html">Quality Assurance</a></li>
+                            <li><a href="tracing-solutions.html">Agile Project Management Services</a></li>
                         </ul>
                       </div>
                       <!-- end col-2 -->

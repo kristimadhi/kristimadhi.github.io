@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/odometer.min.css">
         <link rel="stylesheet" href="css/swiper.min.css">
-        <title>Server Virtualization Form Send | Back Office</title>
+        <title>Cloud Migration Form Send | Back Office</title>
         <link rel="shortcut icon" type="image/png" href="img/favicon.png">
         <meta name="description" content="form send">
     </head>
@@ -55,7 +55,7 @@
                         <span class="border border-left"></span>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="server-and-storage-systems.html">Server Storage Systems
+                        <li><a class="dropdown-item" href="server-and-storage-systems.html">Solution Design and Architecture
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -67,13 +67,13 @@
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="desktop-and-server-virtualization.html">Server Virtualization
+                        <li><a class="dropdown-item" href="desktop-and-server-virtualization.html">Cloud Migration
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="network-and-security-solutions.html">Network Solutions
+                        <li><a class="dropdown-item" href="network-and-security-solutions.html">Platform Engeniering Services
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -149,7 +149,7 @@
                 <span class="border border-left"></span>
             </a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="server-and-storage-systems.html">Server Storage Systems
+                    <li><a class="dropdown-item" href="server-and-storage-systems.html">Solution Design and Architecture
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
@@ -161,13 +161,13 @@
                         <span class="border border-bottom"></span>
                         <span class="border border-left"></span>
                     </a></li>
-                    <li><a class="dropdown-item" href="desktop-and-server-virtualization.html">Server Virtualization
+                    <li><a class="dropdown-item" href="desktop-and-server-virtualization.html">Cloud Migration
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
                         <span class="border border-left"></span>
                     </a></li>
-                    <li><a class="dropdown-item" href="network-and-security-solutions.html">Network Solutions
+                    <li><a class="dropdown-item" href="network-and-security-solutions.html">Platform Engeniering Services
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
@@ -288,10 +288,10 @@
                       <div class="col-lg-2 offset-xl-1 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                         <h6 class="widget-title">Our Services</h6>
                         <ul class="footer-menu">
-                            <li><a href="server-and-storage-systems.html">Server Storage Systems</a></li>
+                            <li><a href="server-and-storage-systems.html">Solution Design and Architecture</a></li>
                             <li><a href="it-support-services.html">Cloud Native Development</a></li>
-                            <li><a href="desktop-and-server-virtualization.html">Server Virtualization</a></li>
-                            <li><a href="network-and-security-solutions.html">Network Solutions</a></li>
+                            <li><a href="desktop-and-server-virtualization.html">Cloud Migration</a></li>
+                            <li><a href="network-and-security-solutions.html">Platform Engeniering Services</a></li>
                             <li><a href="cloud-services.html">Quality Assurance</a></li>
                             <li><a href="tracing-solutions.html">Agile Project Management Services</a></li>
                         </ul>

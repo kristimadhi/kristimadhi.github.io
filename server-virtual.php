@@ -252,7 +252,7 @@
                         <!-- end logo -->
                         <div class="footer-info wow fadeInUp" data-wow-delay="0.4s">
                             <p><i class="flaticon-road"></i>Cologne, Germany</p>
-                            <p><i class="flaticon-call iconpfooter"></i>&nbsp;&nbsp;&nbsp;+49</p><br>
+                            <!-- <p><i class="flaticon-call iconpfooter"></i>&nbsp;&nbsp;&nbsp;+49</p><br> -->
                             <div class="bosluk04"></div>
                             <p><i class="flaticon-email iconpfooter"></i>&nbsp;&nbsp;&nbsp;info@gtr4cloud.de</p><br>
                         </div>

@@ -85,7 +85,7 @@
                             <span class="border border-bottom"></span>
                             <span class="border border-left"></span>
                         </a></li>
-                        <li><a class="dropdown-item" href="tracing-solutions.html">Agile Project Management Services
+                        <li><a class="dropdown-item" href="tracing-solutions.html">Atlassian Services
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -179,7 +179,7 @@
                         <span class="border border-bottom"></span>
                         <span class="border border-left"></span>
                     </a></li>
-                    <li><a class="dropdown-item" href="tracing-solutions.html">Agile Project Management Services
+                    <li><a class="dropdown-item" href="tracing-solutions.html">Atlassian Services
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
                         <span class="border border-bottom"></span>
@@ -294,7 +294,7 @@
                             <li><a href="desktop-and-server-virtualization.html">Cloud Migration</a></li>
                             <li><a href="network-and-security-solutions.html">Platform Engeniering Services</a></li>
                             <li><a href="cloud-services.html">Quality Assurance</a></li>
-                            <li><a href="tracing-solutions.html">Agile Project Management Services</a></li>
+                            <li><a href="tracing-solutions.html">Atlassian Services</a></li>
                         </ul>
                       </div>
                       <!-- end col-2 -->

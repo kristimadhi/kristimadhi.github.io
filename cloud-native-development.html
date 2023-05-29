@@ -48,7 +48,7 @@
                         <span class="border border-left"></span>
                     </a>
                     </li>
-                    <li><a href="it-services.html">Our Services <a class="sb" href="#" style="font-size: 18px">+</a>
+                    <li><a href="our-services.html">Our Services <a class="sb" href="#" style="font-size: 18px">+</a>
                     
                         <span class="border border-top"></span>
                         <span class="border border-right"></span>
@@ -142,7 +142,7 @@
                 <span class="border border-left"></span>
             </a>
             </li>
-            <li><a href="it-services.html">Our Services <i class="flaticon-down-arrow"></i>
+            <li><a href="our-services.html">Our Services <i class="flaticon-down-arrow"></i>
             
                 <span class="border border-top"></span>
                 <span class="border border-right"></span>

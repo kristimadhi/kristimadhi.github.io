@@ -55,7 +55,7 @@
                             <span class="border border-left"></span>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="solutuon-design-and-architecture.html">Solution Design and Architecture
+                            <li><a class="dropdown-item" href="solutuon-design-and-architecture.html">Cloud Infrastructure Design and Deployment
                                 <span class="border border-top"></span>
                                 <span class="border border-right"></span>
                                 <span class="border border-bottom"></span>
@@ -149,7 +149,7 @@
                     <span class="border border-left"></span>
                 </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="solutuon-design-and-architecture.html">Solution Design and Architecture
+                        <li><a class="dropdown-item" href="solutuon-design-and-architecture.html">Cloud Infrastructure Design and Deployment
                             <span class="border border-top"></span>
                             <span class="border border-right"></span>
                             <span class="border border-bottom"></span>
@@ -287,7 +287,7 @@
                       <div class="col-lg-2 offset-xl-1 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                         <h6 class="widget-title">Our Services</h6>
                         <ul class="footer-menu">
-                            <li><a href="solutuon-design-and-architecture.html">Solution Design and Architecture</a></li>
+                            <li><a href="solutuon-design-and-architecture.html">Cloud Infrastructure Design and Deployment</a></li>
                             <li><a href="cloud-native-development.html">Cloud Native Development</a></li>
                             <li><a href="cloud-migration.html">Cloud Migration</a></li>
                             <li><a href="platform-engineering-services.html">Platform Engeniering Services</a></li>

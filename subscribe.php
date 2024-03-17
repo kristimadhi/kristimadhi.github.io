@@ -309,7 +309,7 @@
                       </div>
                       <!-- end col-2 -->
                       <div class="col-12 wow fadeInUp" data-wow-delay="0.9s">
-                        <p class="copyright">© 2023 GTR4Cloud</p>
+                        <p class="copyright">© 2024 GTR4Cloud</p>
                       </div>
                       <!-- end col-12 --> 
                     </div>

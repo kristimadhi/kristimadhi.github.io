@@ -303,10 +303,10 @@
                         <ul class="footer-menu">
                             <li><a href="index.html">Home</a></li>
                             <li><a href="about-us.html">About Us</a></li>
-                            <!-- <li><a href="packages.html">Packages</a></li> -->
                             <!-- <li><a href="clients.html">Clients</a></li> -->
                             <li><a href="blog.html">Blog</a></li>
                             <li><a href="contact-us.html">Contact</a></li>
+                            <li><a href="impressum.html">Disclaimer</a></li>
                         </ul>
                       </div>
                       <!-- end col-2 -->
